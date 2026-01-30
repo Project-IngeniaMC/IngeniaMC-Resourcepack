@@ -1,0 +1,6 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "events:item/glass-empty/glass-empty"
+  }
+}

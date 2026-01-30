@@ -1,0 +1,6 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "events:item/water_pistol/water_pistol"
+  }
+}
