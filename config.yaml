@@ -7,24 +7,24 @@ categories:
 tags:
 - color: '#86f73b'
   group: null
-  id: animated
+  id: Animated
   tag: Animated
 - color: '#8b5cf6'
-  id: colorable
+  id: Colorable
   tag: Colorable
 - color: '#9333ea'
   group: Areas
-  id: magic_village
+  id: Magic Village
   tag: Magic Village
 - color: '#ec4899'
   group: Areas
-  id: sakura_valley
+  id: Sakura Valley
   tag: Sakura Valley
 - color: '#f59e0b'
   group: Areas
-  id: sandy_town
+  id: Sandy Town
   tag: Sandy Town
 - color: '#10b981'
   group: Areas
-  id: vina_tropica
+  id: Vina Tropica
   tag: Vina Tropica
