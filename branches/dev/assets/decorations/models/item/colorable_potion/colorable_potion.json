@@ -1,7 +1,8 @@
 {
   "credit": "Made with Blockbench",
   "textures": {
-    "1": "decorations:item/colorable_potion/ingeniamc_colorable_potion"
+    "1": "decorations:item/colorable_potion/ingeniamc_colorable_potion",
+    "particle": "decorations:item/colorable_potion/ingeniamc_colorable_potion"
   },
   "elements": [
     {

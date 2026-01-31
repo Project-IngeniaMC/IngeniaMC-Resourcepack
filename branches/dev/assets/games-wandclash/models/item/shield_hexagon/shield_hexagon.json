@@ -5,7 +5,8 @@
     32
   ],
   "textures": {
-    "1": "games-wandclash:item/shield_hexagon/ingeniamc_shield_hexagon"
+    "1": "games-wandclash:item/shield_hexagon/ingeniamc_shield_hexagon",
+    "particle": "games-wandclash:item/shield_hexagon/ingeniamc_shield_hexagon"
   },
   "elements": [
     {

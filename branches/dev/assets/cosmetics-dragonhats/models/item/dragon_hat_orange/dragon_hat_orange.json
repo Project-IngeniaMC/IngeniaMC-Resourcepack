@@ -6,7 +6,8 @@
     "5": "cosmetics-dragonhats:item/dragon_hat_orange/ingeniamc_dragon_eyes",
     "6": "cosmetics-dragonhats:item/dragon_hat_orange/ingeniamc_orange_terracotta",
     "7": "cosmetics-dragonhats:item/dragon_hat_orange/ingeniamc_orange_stained_glass",
-    "8": "cosmetics-dragonhats:item/dragon_hat_orange/ingeniamc_dripstone_block"
+    "8": "cosmetics-dragonhats:item/dragon_hat_orange/ingeniamc_dripstone_block",
+    "particle": "cosmetics-dragonhats:item/dragon_hat_orange/ingeniamc_cyan_terracotta"
   },
   "elements": [
     {

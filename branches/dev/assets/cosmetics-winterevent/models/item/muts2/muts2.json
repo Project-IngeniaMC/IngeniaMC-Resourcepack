@@ -6,7 +6,8 @@
   ],
   "textures": {
     "2": "cosmetics-winterevent:item/muts2/ingeniamc_muts2",
-    "3": "cosmetics-winterevent:item/muts2/ingeniamc_mutscolor2"
+    "3": "cosmetics-winterevent:item/muts2/ingeniamc_mutscolor2",
+    "particle": "cosmetics-winterevent:item/muts2/ingeniamc_muts2"
   },
   "elements": [
     {

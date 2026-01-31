@@ -2,7 +2,8 @@
   "credit": "Made with Blockbench",
   "parent": "minecraft:item/handheld",
   "textures": {
-    "layer0": "consumables-icecream:item/lemondisco/ingeniamc_lemondisco"
+    "layer0": "consumables-icecream:item/lemondisco/ingeniamc_lemondisco",
+    "particle": "consumables-icecream:item/lemondisco/ingeniamc_lemondisco"
   },
   "display": {
     "thirdperson_righthand": {

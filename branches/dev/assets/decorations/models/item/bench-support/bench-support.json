@@ -1,7 +1,8 @@
 {
   "credit": "Made with Blockbench",
   "textures": {
-    "1": "decorations:item/bench-support/ingeniamc_benchsupport"
+    "1": "decorations:item/bench-support/ingeniamc_benchsupport",
+    "particle": "decorations:item/bench-support/ingeniamc_benchsupport"
   },
   "elements": [
     {

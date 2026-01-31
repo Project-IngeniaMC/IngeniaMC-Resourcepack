@@ -6,7 +6,8 @@
   ],
   "textures": {
     "1": "decorations-spotlights:item/spotlight_rainbow_flash_circle/ingeniamc_spot_rainbow_flash",
-    "missing": "decorations-spotlights:item/spotlight_rainbow_flash_circle/ingeniamc_missing"
+    "missing": "decorations-spotlights:item/spotlight_rainbow_flash_circle/ingeniamc_missing",
+    "particle": "decorations-spotlights:item/spotlight_rainbow_flash_circle/ingeniamc_spot_rainbow_flash"
   },
   "elements": [
     {

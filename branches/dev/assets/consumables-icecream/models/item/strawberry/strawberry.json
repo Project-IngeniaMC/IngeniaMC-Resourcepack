@@ -2,7 +2,8 @@
   "credit": "Made with Blockbench",
   "parent": "minecraft:item/handheld",
   "textures": {
-    "layer0": "consumables-icecream:item/strawberry/ingeniamc_strawberry"
+    "layer0": "consumables-icecream:item/strawberry/ingeniamc_strawberry",
+    "particle": "consumables-icecream:item/strawberry/ingeniamc_strawberry"
   },
   "display": {
     "thirdperson_righthand": {

@@ -5,7 +5,8 @@
     64
   ],
   "textures": {
-    "1": "decorations-spotlights:item/spotlight_rainbow_flash/ingeniamc_spot_rainbow_flash"
+    "1": "decorations-spotlights:item/spotlight_rainbow_flash/ingeniamc_spot_rainbow_flash",
+    "particle": "decorations-spotlights:item/spotlight_rainbow_flash/ingeniamc_spot_rainbow_flash"
   },
   "elements": [
     {

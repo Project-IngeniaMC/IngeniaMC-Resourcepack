@@ -5,7 +5,8 @@
     64
   ],
   "textures": {
-    "1": "decorations-spotlights:item/spotlight_angle_135/ingeniamc_spot"
+    "1": "decorations-spotlights:item/spotlight_angle_135/ingeniamc_spot",
+    "particle": "decorations-spotlights:item/spotlight_angle_135/ingeniamc_spot"
   },
   "elements": [
     {

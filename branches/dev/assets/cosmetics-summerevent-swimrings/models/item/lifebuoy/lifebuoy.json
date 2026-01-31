@@ -5,7 +5,8 @@
     64
   ],
   "textures": {
-    "1": "cosmetics-summerevent-swimrings:item/lifebuoy/ingeniamc_lifebuoy"
+    "1": "cosmetics-summerevent-swimrings:item/lifebuoy/ingeniamc_lifebuoy",
+    "particle": "cosmetics-summerevent-swimrings:item/lifebuoy/ingeniamc_lifebuoy"
   },
   "elements": [
     {

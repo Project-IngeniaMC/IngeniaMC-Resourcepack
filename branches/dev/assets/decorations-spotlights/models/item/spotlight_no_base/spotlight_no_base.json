@@ -5,7 +5,8 @@
     64
   ],
   "textures": {
-    "1": "decorations-spotlights:item/spotlight_no_base/ingeniamc_spot"
+    "1": "decorations-spotlights:item/spotlight_no_base/ingeniamc_spot",
+    "particle": "decorations-spotlights:item/spotlight_no_base/ingeniamc_spot"
   },
   "elements": [
     {

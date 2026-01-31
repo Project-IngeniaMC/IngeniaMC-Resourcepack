@@ -1,7 +1,8 @@
 {
   "parent": "minecraft:item/handheld",
   "textures": {
-    "layer0": "consumables-drinks:item/glass2-red/ingeniamc_glass2-red"
+    "layer0": "consumables-drinks:item/glass2-red/ingeniamc_glass2-red",
+    "particle": "consumables-drinks:item/glass2-red/ingeniamc_glass2-red"
   },
   "display": {
     "thirdperson_righthand": {

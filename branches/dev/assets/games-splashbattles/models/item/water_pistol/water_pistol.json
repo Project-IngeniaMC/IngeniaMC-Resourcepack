@@ -2,7 +2,8 @@
   "credit": "Made with Blockbench",
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "games-splashbattles:item/water_pistol/ingeniamc_water_pistol"
+    "layer0": "games-splashbattles:item/water_pistol/ingeniamc_water_pistol",
+    "particle": "games-splashbattles:item/water_pistol/ingeniamc_water_pistol"
   },
   "display": {
     "thirdperson_righthand": {

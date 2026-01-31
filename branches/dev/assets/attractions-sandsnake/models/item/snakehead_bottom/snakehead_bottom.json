@@ -1,11 +1,11 @@
 {
   "credit": "Made with Blockbench",
   "textures": {
-    "0": "attractions-sandsnake:item/snakeheadbottom/ingeniamc_red_concrete",
-    "1": "attractions-sandsnake:item/snakeheadbottom/ingeniamc_netherrack",
-    "2": "attractions-sandsnake:item/snakeheadbottom/ingeniamc_podzol_top",
-    "3": "attractions-sandsnake:item/snakeheadbottom/ingeniamc_white_concrete",
-    "particle": "attractions-sandsnake:item/snakeheadbottom/ingeniamc_red_concrete"
+    "0": "attractions-sandsnake:item/snakehead_bottom/ingeniamc_red_concrete",
+    "1": "attractions-sandsnake:item/snakehead_bottom/ingeniamc_netherrack",
+    "2": "attractions-sandsnake:item/snakehead_bottom/ingeniamc_podzol_top",
+    "3": "attractions-sandsnake:item/snakehead_bottom/ingeniamc_white_concrete",
+    "particle": "attractions-sandsnake:item/snakehead_bottom/ingeniamc_red_concrete"
   },
   "elements": [
     {

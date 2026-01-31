@@ -5,7 +5,8 @@
     64
   ],
   "textures": {
-    "1": "decorations-books:item/default_colorable_book/ingeniamc_colored_book"
+    "1": "decorations-books:item/default_colorable_book/ingeniamc_colored_book",
+    "particle": "decorations-books:item/default_colorable_book/ingeniamc_colored_book"
   },
   "elements": [
     {

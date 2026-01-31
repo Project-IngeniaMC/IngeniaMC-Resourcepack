@@ -2,7 +2,8 @@
   "credit": "Made with Blockbench",
   "parent": "minecraft:block/cube_all",
   "textures": {
-    "all": "blocks:item/sakura_leaves/ingeniamc_sakura_leaves"
+    "all": "blocks:item/sakura_leaves/ingeniamc_sakura_leaves",
+    "particle": "blocks:item/sakura_leaves/ingeniamc_sakura_leaves"
   },
   "elements": [
     {
