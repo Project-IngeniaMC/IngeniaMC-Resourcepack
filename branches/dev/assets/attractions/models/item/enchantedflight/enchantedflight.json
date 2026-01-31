@@ -11,7 +11,8 @@
     "7": "attractions:item/enchantedflight/barrel_side",
     "8": "attractions:item/enchantedflight/barrel_top",
     "9": "attractions:item/enchantedflight/spruce_planks",
-    "particle": "attractions:item/enchantedflight/stripped_spruce_log"
+    "particle": "attractions:item/enchantedflight/stripped_spruce_log",
+    "missing": "attractions:item/enchantedflight/missing"
   },
   "elements": [
     {

@@ -10,7 +10,8 @@
     "7": "attractions-parktrain:item/parktrain_loco/lever",
     "8": "attractions-parktrain:item/parktrain_loco/lime_concrete",
     "9": "attractions-parktrain:item/parktrain_loco/red_concrete",
-    "particle": "attractions-parktrain:item/parktrain_loco/andesite"
+    "particle": "attractions-parktrain:item/parktrain_loco/andesite",
+    "missing": "attractions-parktrain:item/parktrain_loco/missing"
   },
   "elements": [
     {

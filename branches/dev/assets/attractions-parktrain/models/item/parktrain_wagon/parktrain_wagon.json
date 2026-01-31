@@ -6,7 +6,8 @@
     "3": "attractions-parktrain:item/parktrain_wagon/red_terracotta",
     "4": "attractions-parktrain:item/parktrain_wagon/brown_terracotta",
     "5": "attractions-parktrain:item/parktrain_wagon/andesite",
-    "particle": "attractions-parktrain:item/parktrain_wagon/andesite"
+    "particle": "attractions-parktrain:item/parktrain_wagon/andesite",
+    "missing": "attractions-parktrain:item/parktrain_wagon/missing"
   },
   "elements": [
     {

@@ -7,7 +7,8 @@
     "4": "events:item/snowman/lime_concrete_powder",
     "5": "events:item/snowman/green_concrete_powder",
     "6": "events:item/snowman/snow",
-    "particle": "events:item/snowman/snow"
+    "particle": "events:item/snowman/snow",
+    "missing": "decorations-winterevent:item/snowman/missing"
   },
   "elements": [
     {

@@ -8,7 +8,8 @@
     "1": "decorations:item/icecreamshowcase/texture",
     "2": "decorations:item/icecreamshowcase/ice",
     "3": "decorations:item/icecreamshowcase/texture2",
-    "particle": "decorations:item/icecreamshowcase/ice"
+    "particle": "decorations:item/icecreamshowcase/ice",
+    "missing": "decorations:item/icecreamshowcase/missing"
   },
   "elements": [
     {

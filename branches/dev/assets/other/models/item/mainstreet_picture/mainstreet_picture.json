@@ -5,7 +5,8 @@
     "1": "Unknown:item/mainstreet_picture/2",
     "2": "Unknown:item/mainstreet_picture/3",
     "3": "Unknown:item/mainstreet_picture/4",
-    "particle": "Unknown:item/mainstreet_picture/1"
+    "particle": "Unknown:item/mainstreet_picture/1",
+    "missing": "other:item/mainstreet_picture/missing"
   },
   "elements": [
     {

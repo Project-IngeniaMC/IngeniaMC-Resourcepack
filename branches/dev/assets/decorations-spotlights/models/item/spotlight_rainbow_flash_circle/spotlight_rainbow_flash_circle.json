@@ -5,7 +5,8 @@
     64
   ],
   "textures": {
-    "1": "decorations-spotlights:item/spotlight_rainbow_flash_circle/spot_rainbow_flash"
+    "1": "decorations-spotlights:item/spotlight_rainbow_flash_circle/spot_rainbow_flash",
+    "missing": "decorations-spotlights:item/spotlight_rainbow_flash_circle/missing"
   },
   "elements": [
     {
