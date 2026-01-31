@@ -1,12 +1,35 @@
 branding:
-  brand: oklch(0.58 0.256 293.597)
+  brand: '#eda60c'
   name: IngeniaMC Resourcepack Manager
 categories:
-- test/test
-- test2
+- attractions/parktrain
+- attractions/pyraculus
+- attractions/rapids_of_mayhem
+- attractions/sakuraswirl
+- attractions/sandsnake
+- attractions/summerevent
+- attractions/winterevent
+- attractions/wizardswaters
+- consumables/drinks
+- consumables/icecream
+- cosmetics/dragonhats
+- cosmetics/goblin
+- cosmetics/summerevent
+- cosmetics/summerevent/swimrings
+- cosmetics/winterevent
+- cosmetics/wizardhats
+- decorations/arms
+- decorations/books
+- decorations/skeletons
+- decorations/spotlights
+- decorations/summerevent
+- decorations/winterevent
+- games/splashbattles
+- games/wandclash
+- graphics/summerevent
+- other
 tags:
 - color: '#86f73b'
-  group: null
   id: Animated
   tag: Animated
 - color: '#8b5cf6'
