@@ -1,7 +1,7 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "decorations-books:item/books/thin_colorable_book/thin_colorable_book",
+    "model": "decorations-books:item/thin_colorable_book/thin_colorable_book",
     "tints": [
       {
         "type": "minecraft:dye",

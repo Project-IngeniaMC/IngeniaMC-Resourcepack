@@ -1,7 +1,7 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "decorations-arms:item/arms/blank_arm/blank_arm",
+    "model": "decorations-arms:item/blank_arm/blank_arm",
     "tints": [
       {
         "type": "minecraft:dye",

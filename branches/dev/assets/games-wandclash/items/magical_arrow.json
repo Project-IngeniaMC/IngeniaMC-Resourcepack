@@ -1,7 +1,7 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "games-wandclash:item/wandclash/magical_arrow/magical_arrow",
+    "model": "games-wandclash:item/magical_arrow/magical_arrow",
     "tints": [
       {
         "type": "minecraft:dye",

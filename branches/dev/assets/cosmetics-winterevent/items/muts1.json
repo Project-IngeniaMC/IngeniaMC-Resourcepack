@@ -1,7 +1,7 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "cosmetics-winterevent:item/winterevent/muts1/muts1",
+    "model": "cosmetics-winterevent:item/muts1/muts1",
     "tints": [
       {
         "type": "minecraft:dye",

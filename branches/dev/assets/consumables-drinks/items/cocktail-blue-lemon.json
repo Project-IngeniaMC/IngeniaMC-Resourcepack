@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "consumables-drinks:item/drinks/cocktail-blue-lemon/cocktail-blue-lemon"
+    "model": "consumables-drinks:item/cocktail-blue-lemon/cocktail-blue-lemon"
   }
 }

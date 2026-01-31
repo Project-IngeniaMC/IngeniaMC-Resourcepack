@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "attractions-pyraculus:item/pyraculus/doorleft/doorleft"
+    "model": "attractions-pyraculus:item/doorleft/doorleft"
   }
 }

@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "cosmetics-summerevent-swimrings:item/summerevent/swimrings/duck_ring/duck_ring"
+    "model": "cosmetics-summerevent-swimrings:item/duck_ring/duck_ring"
   }
 }

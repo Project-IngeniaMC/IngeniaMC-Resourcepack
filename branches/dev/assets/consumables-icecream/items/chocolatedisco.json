@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "consumables-icecream:item/icecream/chocolatedisco/chocolatedisco"
+    "model": "consumables-icecream:item/chocolatedisco/chocolatedisco"
   }
 }

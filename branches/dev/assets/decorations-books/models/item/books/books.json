@@ -1,9 +1,9 @@
 {
   "credit": "Made with Blockbench",
   "textures": {
-    "0": "decorations-books:item/books/bookkaft",
-    "1": "decorations-books:item/books/bookpaper",
-    "particle": "decorations-books:item/books/bookkaft"
+    "0": "decorations-books:item/bookkaft",
+    "1": "decorations-books:item/bookpaper",
+    "particle": "decorations-books:item/bookkaft"
   },
   "elements": [
     {

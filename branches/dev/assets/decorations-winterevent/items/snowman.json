@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "decorations-winterevent:item/winterevent/snowman/snowman"
+    "model": "decorations-winterevent:item/snowman/snowman"
   }
 }

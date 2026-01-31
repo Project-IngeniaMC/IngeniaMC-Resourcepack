@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "attractions-wizardswaters:item/wizardswaters/elevator/elevator"
+    "model": "attractions-wizardswaters:item/elevator/elevator"
   }
 }

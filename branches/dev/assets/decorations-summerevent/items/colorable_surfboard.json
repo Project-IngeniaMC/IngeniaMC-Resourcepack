@@ -1,7 +1,7 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "decorations-summerevent:item/summerevent/colorable_surfboard/colorable_surfboard",
+    "model": "decorations-summerevent:item/colorable_surfboard/colorable_surfboard",
     "tints": [
       {
         "type": "minecraft:dye",

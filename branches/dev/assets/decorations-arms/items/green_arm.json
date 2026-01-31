@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "decorations-arms:item/arms/green_arm/green_arm"
+    "model": "decorations-arms:item/green_arm/green_arm"
   }
 }

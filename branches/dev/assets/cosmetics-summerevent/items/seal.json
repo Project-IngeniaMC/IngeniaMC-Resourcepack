@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "cosmetics-summerevent:item/summerevent/seal/seal"
+    "model": "cosmetics-summerevent:item/seal/seal"
   }
 }

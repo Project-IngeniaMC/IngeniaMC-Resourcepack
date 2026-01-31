@@ -1,7 +1,7 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "decorations-spotlights:item/spotlights/spotlight_angle_67_5/spotlight_angle_67_5",
+    "model": "decorations-spotlights:item/spotlight_angle_67_5/spotlight_angle_67_5",
     "tints": [
       {
         "type": "minecraft:dye",

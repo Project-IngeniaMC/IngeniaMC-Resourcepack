@@ -1,7 +1,7 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "attractions-summerevent:item/summerevent/colorable_slide/colorable_slide",
+    "model": "attractions-summerevent:item/colorable_slide/colorable_slide",
     "tints": [
       {
         "type": "minecraft:dye",

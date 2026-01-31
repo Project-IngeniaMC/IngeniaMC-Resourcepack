@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "attractions-parktrain:item/parktrain/parktrain_wagon/parktrain_wagon"
+    "model": "attractions-parktrain:item/parktrain_wagon/parktrain_wagon"
   }
 }

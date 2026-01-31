@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "attractions-sandsnake:item/sandsnake/snakeheadtop/snakeheadtop"
+    "model": "attractions-sandsnake:item/snakeheadtop/snakeheadtop"
   }
 }

@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "games-splashbattles:item/splashbattles/water_pistol/water_pistol"
+    "model": "games-splashbattles:item/water_pistol/water_pistol"
   }
 }

@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "consumables-drinks:item/drinks/cocktail-empty/cocktail-empty"
+    "model": "consumables-drinks:item/cocktail-empty/cocktail-empty"
   }
 }

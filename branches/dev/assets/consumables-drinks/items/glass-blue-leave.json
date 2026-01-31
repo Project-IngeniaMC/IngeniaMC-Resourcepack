@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "consumables-drinks:item/drinks/glass-blue-leave/glass-blue-leave"
+    "model": "consumables-drinks:item/glass-blue-leave/glass-blue-leave"
   }
 }

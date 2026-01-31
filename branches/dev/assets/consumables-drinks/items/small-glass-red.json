@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "consumables-drinks:item/drinks/small-glass-red/small-glass-red"
+    "model": "consumables-drinks:item/small-glass-red/small-glass-red"
   }
 }

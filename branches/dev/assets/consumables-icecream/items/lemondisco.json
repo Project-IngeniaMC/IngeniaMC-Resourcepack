@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "consumables-icecream:item/icecream/lemondisco/lemondisco"
+    "model": "consumables-icecream:item/lemondisco/lemondisco"
   }
 }
