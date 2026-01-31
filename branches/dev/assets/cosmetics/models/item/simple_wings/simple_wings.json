@@ -5,8 +5,8 @@
     32
   ],
   "textures": {
-    "0": "cosmetics:item/simple_wings/simple_wings",
-    "particle": "cosmetics:item/simple_wings/simple_wings"
+    "0": "cosmetics:item/simple_wings/ingeniamc_simple_wings",
+    "particle": "cosmetics:item/simple_wings/ingeniamc_simple_wings"
   },
   "elements": [
     {

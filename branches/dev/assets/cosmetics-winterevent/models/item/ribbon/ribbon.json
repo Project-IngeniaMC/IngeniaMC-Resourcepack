@@ -5,8 +5,8 @@
     32
   ],
   "textures": {
-    "1": "ingeniamc:item/ribbon/ribbonbright",
-    "particle": "ingeniamc:item/ribbon/mannequin"
+    "1": "cosmetics-winterevent:item/ribbon/ingeniamc_ribbonbright",
+    "particle": "cosmetics-winterevent:item/ribbon/ingeniamc_mannequin"
   },
   "elements": [
     {

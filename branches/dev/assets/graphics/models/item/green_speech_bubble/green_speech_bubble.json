@@ -5,8 +5,8 @@
     32
   ],
   "textures": {
-    "0": "graphics:item/green_speech_bubble/green_speech_bubble",
-    "particle": "graphics:item/green_speech_bubble/green_speech_bubble"
+    "0": "graphics:item/green_speech_bubble/ingeniamc_green_speech_bubble",
+    "particle": "graphics:item/green_speech_bubble/ingeniamc_green_speech_bubble"
   },
   "elements": [
     {

@@ -5,7 +5,7 @@
     64
   ],
   "textures": {
-    "1": "events:item/colorable_surfboard/colorable_surfboard"
+    "1": "decorations-summerevent:item/colorable_surfboard/ingeniamc_colorable_surfboard"
   },
   "elements": [
     {

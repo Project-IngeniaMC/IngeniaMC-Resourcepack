@@ -5,8 +5,8 @@
     64
   ],
   "textures": {
-    "0": "cosmetics:item/sombrero/sombrero",
-    "particle": "cosmetics:item/sombrero/sombrero"
+    "0": "cosmetics:item/sombrero/ingeniamc_sombrero",
+    "particle": "cosmetics:item/sombrero/ingeniamc_sombrero"
   },
   "elements": [
     {

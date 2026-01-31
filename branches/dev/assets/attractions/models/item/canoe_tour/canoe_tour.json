@@ -1,14 +1,14 @@
 {
   "credit": "Made with Blockbench",
   "textures": {
-    "1": "attractions:item/canoe_tour/stripped_mangrove_log",
-    "2": "attractions:item/canoe_tour/barrel_bottom",
-    "3": "attractions:item/canoe_tour/composter_bottom",
-    "4": "attractions:item/canoe_tour/barrel_side",
-    "5": "attractions:item/canoe_tour/barrel_top",
-    "6": "attractions:item/canoe_tour/ladder",
-    "7": "attractions:item/canoe_tour/anvil",
-    "particle": "attractions:item/canoe_tour/barrel_bottom"
+    "1": "attractions:item/canoe_tour/ingeniamc_stripped_mangrove_log",
+    "2": "attractions:item/canoe_tour/ingeniamc_barrel_bottom",
+    "3": "attractions:item/canoe_tour/ingeniamc_composter_bottom",
+    "4": "attractions:item/canoe_tour/ingeniamc_barrel_side",
+    "5": "attractions:item/canoe_tour/ingeniamc_barrel_top",
+    "6": "attractions:item/canoe_tour/ingeniamc_ladder",
+    "7": "attractions:item/canoe_tour/ingeniamc_anvil",
+    "particle": "attractions:item/canoe_tour/ingeniamc_barrel_bottom"
   },
   "elements": [
     {

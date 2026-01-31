@@ -5,8 +5,8 @@
     64
   ],
   "textures": {
-    "0": "ingeniamc:item/chair_with_pillow/chair_with_pillow",
-    "particle": "ingeniamc:item/chair_with_pillow/chair_with_pillow"
+    "0": "decorations:item/chair_with_pillow/ingeniamc_chair_with_pillow",
+    "particle": "decorations:item/chair_with_pillow/ingeniamc_chair_with_pillow"
   },
   "elements": [
     {

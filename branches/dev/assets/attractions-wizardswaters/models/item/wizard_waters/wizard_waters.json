@@ -1,12 +1,12 @@
 {
   "credit": "Made with Blockbench",
   "textures": {
-    "0": "attractions-wizardswaters:item/wizard_waters/gray_concrete",
-    "2": "attractions-wizardswaters:item/wizard_waters/brown_terracotta",
-    "4": "attractions-wizardswaters:item/wizard_waters/orange_terracotta",
-    "5": "attractions-wizardswaters:item/wizard_waters/netherite_block",
-    "6": "attractions-wizardswaters:item/wizard_waters/stripped_spruce_log",
-    "particle": "attractions-wizardswaters:item/wizard_waters/gray_concrete"
+    "0": "attractions-wizardswaters:item/wizard_waters/ingeniamc_gray_concrete",
+    "2": "attractions-wizardswaters:item/wizard_waters/ingeniamc_brown_terracotta",
+    "4": "attractions-wizardswaters:item/wizard_waters/ingeniamc_orange_terracotta",
+    "5": "attractions-wizardswaters:item/wizard_waters/ingeniamc_netherite_block",
+    "6": "attractions-wizardswaters:item/wizard_waters/ingeniamc_stripped_spruce_log",
+    "particle": "attractions-wizardswaters:item/wizard_waters/ingeniamc_gray_concrete"
   },
   "elements": [
     {

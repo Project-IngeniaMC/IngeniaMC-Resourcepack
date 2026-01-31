@@ -1,9 +1,9 @@
 {
   "credit": "Made with Blockbench",
   "textures": {
-    "0": "events:item/snowy_tall_grass/snowy_tall_grass_bottom",
-    "1": "events:item/snowy_tall_grass/snowy_tall_grass_top",
-    "particle": "events:item/snowy_tall_grass/snowy_tall_grass_bottom"
+    "0": "decorations-winterevent:item/snowy_tall_grass/ingeniamc_snowy_tall_grass_bottom",
+    "1": "decorations-winterevent:item/snowy_tall_grass/ingeniamc_snowy_tall_grass_top",
+    "particle": "decorations-winterevent:item/snowy_tall_grass/ingeniamc_snowy_tall_grass_bottom"
   },
   "elements": [
     {

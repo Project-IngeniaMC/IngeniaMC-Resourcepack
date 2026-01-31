@@ -1,9 +1,9 @@
 {
   "credit": "Made with Blockbench",
   "textures": {
-    "2": "attractions-sandsnake:item/sand_snake_track/black_shulker_box",
-    "3": "attractions-sandsnake:item/sand_snake_track/netherite_block",
-    "particle": "attractions-sandsnake:item/sand_snake_track/black_shulker_box"
+    "2": "attractions-sandsnake:item/sand_snake_track/ingeniamc_black_shulker_box",
+    "3": "attractions-sandsnake:item/sand_snake_track/ingeniamc_netherite_block",
+    "particle": "attractions-sandsnake:item/sand_snake_track/ingeniamc_black_shulker_box"
   },
   "elements": [
     {

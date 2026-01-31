@@ -5,8 +5,8 @@
     128
   ],
   "textures": {
-    "0": "Unknown:item/fog/fog",
-    "particle": "Unknown:item/fog/fog"
+    "0": "other:item/fog/ingeniamc_fog",
+    "particle": "other:item/fog/ingeniamc_fog"
   },
   "elements": [
     {

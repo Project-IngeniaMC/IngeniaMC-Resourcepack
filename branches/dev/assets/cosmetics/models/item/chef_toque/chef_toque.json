@@ -5,8 +5,8 @@
     32
   ],
   "textures": {
-    "0": "cosmetics:item/chef_toque/chef_toque",
-    "particle": "cosmetics:item/chef_toque/chef_toque"
+    "0": "cosmetics:item/chef_toque/ingeniamc_chef_toque",
+    "particle": "cosmetics:item/chef_toque/ingeniamc_chef_toque"
   },
   "elements": [
     {

@@ -2,7 +2,7 @@
   "credit": "Made with Blockbench",
   "parent": "minecraft:item/handheld",
   "textures": {
-    "layer0": "consumables-icecream:item/slush/slush"
+    "layer0": "consumables-icecream:item/slush/ingeniamc_slush"
   },
   "display": {
     "thirdperson_righthand": {

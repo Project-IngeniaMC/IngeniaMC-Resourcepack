@@ -5,9 +5,9 @@
     128
   ],
   "textures": {
-    "0": "decorations:item/zebra/zebra",
-    "particle": "decorations:item/zebra/zebra",
-    "missing": "decorations:item/zebra/missing"
+    "0": "decorations:item/zebra/ingeniamc_zebra",
+    "particle": "decorations:item/zebra/ingeniamc_zebra",
+    "missing": "decorations:item/zebra/ingeniamc_missing"
   },
   "elements": [
     {

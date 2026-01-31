@@ -5,8 +5,8 @@
     32
   ],
   "textures": {
-    "0": "ingeniamc:item/rake/rake",
-    "particle": "ingeniamc:item/rake/rake"
+    "0": "decorations:item/rake/ingeniamc_rake",
+    "particle": "decorations:item/rake/ingeniamc_rake"
   },
   "elements": [
     {

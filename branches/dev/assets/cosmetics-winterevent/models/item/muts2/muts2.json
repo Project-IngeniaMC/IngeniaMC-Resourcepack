@@ -5,8 +5,8 @@
     32
   ],
   "textures": {
-    "2": "ingeniamc:item/muts2/muts2",
-    "3": "ingeniamc:item/muts2/mutscolor2"
+    "2": "cosmetics-winterevent:item/muts2/ingeniamc_muts2",
+    "3": "cosmetics-winterevent:item/muts2/ingeniamc_mutscolor2"
   },
   "elements": [
     {

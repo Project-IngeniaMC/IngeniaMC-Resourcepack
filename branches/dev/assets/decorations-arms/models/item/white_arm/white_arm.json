@@ -5,7 +5,7 @@
     32
   ],
   "textures": {
-    "particle": "cosmetics:item/white_arm/white_arm"
+    "particle": "decorations-arms:item/white_arm/ingeniamc_white_arm"
   },
   "elements": [
     {

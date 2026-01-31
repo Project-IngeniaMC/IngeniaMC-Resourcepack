@@ -2,7 +2,7 @@
   "credit": "Made with Blockbench",
   "parent": "minecraft:item/handheld",
   "textures": {
-    "layer0": "consumables-icecream:item/chocolate/chocolate"
+    "layer0": "consumables-icecream:item/chocolate/ingeniamc_chocolate"
   },
   "display": {
     "thirdperson_righthand": {

@@ -1,9 +1,9 @@
 {
   "credit": "Made with Blockbench",
   "textures": {
-    "0": "events:item/golden_band/band_ruby",
-    "1": "events:item/golden_band/band_gold",
-    "particle": "events:item/golden_band/band_ruby"
+    "0": "events:item/golden_band/ingeniamc_band_ruby",
+    "1": "events:item/golden_band/ingeniamc_band_gold",
+    "particle": "events:item/golden_band/ingeniamc_band_ruby"
   },
   "elements": [
     {

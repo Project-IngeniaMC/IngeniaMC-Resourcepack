@@ -1,7 +1,7 @@
 {
   "parent": "minecraft:item/handheld",
   "textures": {
-    "layer0": "consumables-drinks:item/cocktail-purple-lemon/cocktail-purple-lemon"
+    "layer0": "consumables-drinks:item/cocktail-purple-lemon/ingeniamc_cocktail-purple-lemon"
   },
   "display": {
     "thirdperson_righthand": {

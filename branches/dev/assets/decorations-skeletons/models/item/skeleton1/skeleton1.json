@@ -1,8 +1,8 @@
 {
   "credit": "Made with Blockbench",
   "textures": {
-    "0": "decorations-skeletons:item/skeleton1/skeleton",
-    "particle": "decorations-skeletons:item/skeleton1/skeleton"
+    "0": "decorations-skeletons:item/skeleton1/ingeniamc_skeleton",
+    "particle": "decorations-skeletons:item/skeleton1/ingeniamc_skeleton"
   },
   "elements": [
     {

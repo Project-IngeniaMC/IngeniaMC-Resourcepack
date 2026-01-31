@@ -1,8 +1,8 @@
 {
   "credit": "Made with Blockbench",
   "textures": {
-    "0": "ingeniamc:item/santa_beard/santabeard",
-    "particle": "ingeniamc:item/santa_beard/santabeard"
+    "0": "cosmetics-winterevent:item/santa_beard/ingeniamc_santabeard",
+    "particle": "cosmetics-winterevent:item/santa_beard/ingeniamc_santabeard"
   },
   "elements": [
     {

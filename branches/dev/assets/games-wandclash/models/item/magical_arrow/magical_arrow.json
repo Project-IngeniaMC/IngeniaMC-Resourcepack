@@ -5,8 +5,8 @@
     32
   ],
   "textures": {
-    "0": "games-wandclash:item/magical_arrow/magical_arrow",
-    "particle": "games-wandclash:item/magical_arrow/magical_arrow"
+    "0": "games-wandclash:item/magical_arrow/ingeniamc_magical_arrow",
+    "particle": "games-wandclash:item/magical_arrow/ingeniamc_magical_arrow"
   },
   "elements": [
     {

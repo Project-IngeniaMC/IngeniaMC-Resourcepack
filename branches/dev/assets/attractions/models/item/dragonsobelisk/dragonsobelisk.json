@@ -1,11 +1,11 @@
 {
   "credit": "Made with Blockbench",
   "textures": {
-    "0": "attractions:item/dragonsobelisk/exposed_cut_copper",
-    "1": "attractions:item/dragonsobelisk/green_terracotta",
-    "2": "attractions:item/dragonsobelisk/weathered_copper",
-    "4": "attractions:item/dragonsobelisk/anvil",
-    "particle": "attractions:item/dragonsobelisk/exposed_cut_copper"
+    "0": "attractions:item/dragonsobelisk/ingeniamc_exposed_cut_copper",
+    "1": "attractions:item/dragonsobelisk/ingeniamc_green_terracotta",
+    "2": "attractions:item/dragonsobelisk/ingeniamc_weathered_copper",
+    "4": "attractions:item/dragonsobelisk/ingeniamc_anvil",
+    "particle": "attractions:item/dragonsobelisk/ingeniamc_exposed_cut_copper"
   },
   "elements": [
     {

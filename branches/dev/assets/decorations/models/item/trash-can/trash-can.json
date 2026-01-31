@@ -5,8 +5,8 @@
     128
   ],
   "textures": {
-    "0": "decorations:item/trash-can/trashcan",
-    "particle": "decorations:item/trash-can/trashcan"
+    "0": "decorations:item/trash-can/ingeniamc_trashcan",
+    "particle": "decorations:item/trash-can/ingeniamc_trashcan"
   },
   "elements": [
     {

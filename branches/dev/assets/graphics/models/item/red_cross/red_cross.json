@@ -1,8 +1,8 @@
 {
   "credit": "Made with Blockbench",
   "textures": {
-    "0": "graphics:item/red_cross/red_concrete",
-    "particle": "graphics:item/red_cross/red_concrete"
+    "0": "graphics:item/red_cross/ingeniamc_red_concrete",
+    "particle": "graphics:item/red_cross/ingeniamc_red_concrete"
   },
   "elements": [
     {

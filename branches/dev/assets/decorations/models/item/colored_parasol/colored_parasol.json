@@ -5,8 +5,8 @@
     64
   ],
   "textures": {
-    "0": "ingeniamc:item/colored_parasol/colorable_parasol",
-    "particle": "ingeniamc:item/colored_parasol/colorable_parasol"
+    "0": "decorations:item/colored_parasol/ingeniamc_colorable_parasol",
+    "particle": "decorations:item/colored_parasol/ingeniamc_colorable_parasol"
   },
   "elements": [
     {

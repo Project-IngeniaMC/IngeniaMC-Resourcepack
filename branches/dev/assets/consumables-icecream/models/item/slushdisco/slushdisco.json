@@ -2,7 +2,7 @@
   "credit": "Made with Blockbench",
   "parent": "minecraft:item/handheld",
   "textures": {
-    "layer0": "consumables-icecream:item/slushdisco/slushdisco"
+    "layer0": "consumables-icecream:item/slushdisco/ingeniamc_slushdisco"
   },
   "display": {
     "thirdperson_righthand": {

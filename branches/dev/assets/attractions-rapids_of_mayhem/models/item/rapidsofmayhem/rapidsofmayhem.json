@@ -5,8 +5,8 @@
     128
   ],
   "textures": {
-    "0": "attractions-rapids_of_mayhem:item/rapidsofmayhem/rapidsofmayhem",
-    "particle": "attractions-rapids_of_mayhem:item/rapidsofmayhem/rapidsofmayhem"
+    "0": "attractions-rapids_of_mayhem:item/rapidsofmayhem/ingeniamc_rapidsofmayhem",
+    "particle": "attractions-rapids_of_mayhem:item/rapidsofmayhem/ingeniamc_rapidsofmayhem"
   },
   "elements": [
     {

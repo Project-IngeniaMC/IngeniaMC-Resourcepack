@@ -1,8 +1,8 @@
 {
   "credit": "Made with Blockbench",
   "textures": {
-    "0": "cosmetics:item/avontuuriergamer/avontuuriergamer",
-    "particle": "cosmetics:item/avontuuriergamer/avontuuriergamer"
+    "0": "cosmetics:item/avontuuriergamer/ingeniamc_avontuuriergamer",
+    "particle": "cosmetics:item/avontuuriergamer/ingeniamc_avontuuriergamer"
   },
   "elements": [
     {

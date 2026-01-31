@@ -1,9 +1,9 @@
 {
   "credit": "Made with Blockbench",
   "textures": {
-    "1": "ingeniamc:item/christmas_tree/light",
-    "5": "ingeniamc:item/christmas_tree/christmastree",
-    "particle": "ingeniamc:item/christmas_tree/light"
+    "1": "cosmetics-winterevent:item/christmas_tree/ingeniamc_light",
+    "5": "cosmetics-winterevent:item/christmas_tree/ingeniamc_christmastree",
+    "particle": "cosmetics-winterevent:item/christmas_tree/ingeniamc_light"
   },
   "elements": [
     {

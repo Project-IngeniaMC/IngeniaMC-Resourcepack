@@ -1,10 +1,10 @@
 {
   "credit": "Made with Blockbench",
   "textures": {
-    "0": "cosmetics-wizardhats:item/wizard_hat_red/brown_terracotta",
-    "1": "cosmetics-wizardhats:item/wizard_hat_red/yellow_terracotta",
-    "2": "cosmetics-wizardhats:item/wizard_hat_red/red_terracotta",
-    "particle": "cosmetics-wizardhats:item/wizard_hat_red/brown_terracotta"
+    "0": "cosmetics-wizardhats:item/wizard_hat_red/ingeniamc_brown_terracotta",
+    "1": "cosmetics-wizardhats:item/wizard_hat_red/ingeniamc_yellow_terracotta",
+    "2": "cosmetics-wizardhats:item/wizard_hat_red/ingeniamc_red_terracotta",
+    "particle": "cosmetics-wizardhats:item/wizard_hat_red/ingeniamc_brown_terracotta"
   },
   "elements": [
     {

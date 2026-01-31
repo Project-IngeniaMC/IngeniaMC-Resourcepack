@@ -1,8 +1,8 @@
 {
   "credit": "Made with Blockbench",
   "textures": {
-    "0": "cosmetics:item/black_mouth_mask/black_concrete",
-    "particle": "cosmetics:item/black_mouth_mask/black_concrete"
+    "0": "cosmetics:item/black_mouth_mask/ingeniamc_black_concrete",
+    "particle": "cosmetics:item/black_mouth_mask/ingeniamc_black_concrete"
   },
   "elements": [
     {

@@ -1,14 +1,14 @@
 {
   "credit": "Made with Blockbench",
   "textures": {
-    "1": "events:item/snowman/orange_wool",
-    "2": "events:item/snowman/black_concrete_powder",
-    "3": "events:item/snowman/red_concrete_powder",
-    "4": "events:item/snowman/lime_concrete_powder",
-    "5": "events:item/snowman/green_concrete_powder",
-    "6": "events:item/snowman/snow",
-    "particle": "events:item/snowman/snow",
-    "missing": "decorations-winterevent:item/snowman/missing"
+    "1": "decorations-winterevent:item/snowman/ingeniamc_orange_wool",
+    "2": "decorations-winterevent:item/snowman/ingeniamc_black_concrete_powder",
+    "3": "decorations-winterevent:item/snowman/ingeniamc_red_concrete_powder",
+    "4": "decorations-winterevent:item/snowman/ingeniamc_lime_concrete_powder",
+    "5": "decorations-winterevent:item/snowman/ingeniamc_green_concrete_powder",
+    "6": "decorations-winterevent:item/snowman/ingeniamc_snow",
+    "particle": "decorations-winterevent:item/snowman/ingeniamc_snow",
+    "missing": "decorations-winterevent:item/snowman/ingeniamc_missing"
   },
   "elements": [
     {

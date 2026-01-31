@@ -1,13 +1,13 @@
 {
   "credit": "Made with Blockbench",
   "textures": {
-    "1": "attractions-parktrain:item/parktrain_wagon/cartography_table_side3",
-    "2": "attractions-parktrain:item/parktrain_wagon/gray_concrete",
-    "3": "attractions-parktrain:item/parktrain_wagon/red_terracotta",
-    "4": "attractions-parktrain:item/parktrain_wagon/brown_terracotta",
-    "5": "attractions-parktrain:item/parktrain_wagon/andesite",
-    "particle": "attractions-parktrain:item/parktrain_wagon/andesite",
-    "missing": "attractions-parktrain:item/parktrain_wagon/missing"
+    "1": "attractions-parktrain:item/parktrain_wagon/ingeniamc_cartography_table_side3",
+    "2": "attractions-parktrain:item/parktrain_wagon/ingeniamc_gray_concrete",
+    "3": "attractions-parktrain:item/parktrain_wagon/ingeniamc_red_terracotta",
+    "4": "attractions-parktrain:item/parktrain_wagon/ingeniamc_brown_terracotta",
+    "5": "attractions-parktrain:item/parktrain_wagon/ingeniamc_andesite",
+    "particle": "attractions-parktrain:item/parktrain_wagon/ingeniamc_andesite",
+    "missing": "attractions-parktrain:item/parktrain_wagon/ingeniamc_missing"
   },
   "elements": [
     {

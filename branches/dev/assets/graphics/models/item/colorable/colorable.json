@@ -5,8 +5,8 @@
     32
   ],
   "textures": {
-    "0": "graphics:item/colorable/colorable",
-    "particle": "graphics:item/colorable/colorable"
+    "0": "graphics:item/colorable/ingeniamc_colorable",
+    "particle": "graphics:item/colorable/ingeniamc_colorable"
   },
   "elements": [
     {

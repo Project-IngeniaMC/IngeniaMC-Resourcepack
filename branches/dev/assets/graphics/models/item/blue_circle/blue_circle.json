@@ -1,8 +1,8 @@
 {
   "credit": "Made with Blockbench",
   "textures": {
-    "0": "graphics:item/blue_circle/light_blue_concrete",
-    "particle": "graphics:item/blue_circle/light_blue_concrete"
+    "0": "graphics:item/blue_circle/ingeniamc_light_blue_concrete",
+    "particle": "graphics:item/blue_circle/ingeniamc_light_blue_concrete"
   },
   "elements": [
     {

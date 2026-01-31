@@ -1,8 +1,8 @@
 {
   "credit": "Made with Blockbench",
   "textures": {
-    "0": "games-wandclash:item/branch/branch",
-    "particle": "games-wandclash:item/branch/branch"
+    "0": "games-wandclash:item/branch/ingeniamc_branch",
+    "particle": "games-wandclash:item/branch/ingeniamc_branch"
   },
   "elements": [
     {

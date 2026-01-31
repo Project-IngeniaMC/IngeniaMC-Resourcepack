@@ -1,18 +1,18 @@
 {
   "credit": "Made with Blockbench",
   "textures": {
-    "0": "attractions:item/enchantedflight/stripped_spruce_log",
-    "1": "attractions:item/enchantedflight/stripped_spruce_log_top",
-    "2": "attractions:item/enchantedflight/cauldron_inner",
-    "3": "attractions:item/enchantedflight/bone_block_side",
-    "4": "attractions:item/enchantedflight/green_concrete",
-    "5": "attractions:item/enchantedflight/lantern",
-    "6": "attractions:item/enchantedflight/barrel_bottom",
-    "7": "attractions:item/enchantedflight/barrel_side",
-    "8": "attractions:item/enchantedflight/barrel_top",
-    "9": "attractions:item/enchantedflight/spruce_planks",
-    "particle": "attractions:item/enchantedflight/stripped_spruce_log",
-    "missing": "attractions:item/enchantedflight/missing"
+    "0": "attractions:item/enchantedflight/ingeniamc_stripped_spruce_log",
+    "1": "attractions:item/enchantedflight/ingeniamc_stripped_spruce_log_top",
+    "2": "attractions:item/enchantedflight/ingeniamc_cauldron_inner",
+    "3": "attractions:item/enchantedflight/ingeniamc_bone_block_side",
+    "4": "attractions:item/enchantedflight/ingeniamc_green_concrete",
+    "5": "attractions:item/enchantedflight/ingeniamc_lantern",
+    "6": "attractions:item/enchantedflight/ingeniamc_barrel_bottom",
+    "7": "attractions:item/enchantedflight/ingeniamc_barrel_side",
+    "8": "attractions:item/enchantedflight/ingeniamc_barrel_top",
+    "9": "attractions:item/enchantedflight/ingeniamc_spruce_planks",
+    "particle": "attractions:item/enchantedflight/ingeniamc_stripped_spruce_log",
+    "missing": "attractions:item/enchantedflight/ingeniamc_missing"
   },
   "elements": [
     {

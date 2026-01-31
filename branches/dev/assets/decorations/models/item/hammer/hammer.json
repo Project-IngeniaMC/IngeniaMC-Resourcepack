@@ -5,8 +5,8 @@
     32
   ],
   "textures": {
-    "0": "ingeniamc:item/hammer/hammer",
-    "particle": "ingeniamc:item/hammer/hammer"
+    "0": "decorations:item/hammer/ingeniamc_hammer",
+    "particle": "decorations:item/hammer/ingeniamc_hammer"
   },
   "elements": [
     {

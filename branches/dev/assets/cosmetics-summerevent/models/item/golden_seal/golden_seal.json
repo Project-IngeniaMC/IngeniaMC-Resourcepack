@@ -5,8 +5,8 @@
     64
   ],
   "textures": {
-    "0": "events:item/golden_seal/golden_seal_hat",
-    "particle": "events:item/golden_seal/golden_seal_hat"
+    "0": "cosmetics-summerevent:item/golden_seal/ingeniamc_golden_seal_hat",
+    "particle": "cosmetics-summerevent:item/golden_seal/ingeniamc_golden_seal_hat"
   },
   "elements": [
     {

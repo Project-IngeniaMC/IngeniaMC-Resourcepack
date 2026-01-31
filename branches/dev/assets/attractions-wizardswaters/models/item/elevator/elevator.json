@@ -1,13 +1,13 @@
 {
   "credit": "Made with Blockbench",
   "textures": {
-    "0": "attractions-wizardswaters:item/elevator/barrel_side",
-    "1": "attractions-wizardswaters:item/elevator/barrel_top",
-    "2": "attractions-wizardswaters:item/elevator/barrel_bottom",
-    "3": "attractions-wizardswaters:item/elevator/normal",
-    "4": "attractions-wizardswaters:item/elevator/copper_block",
-    "5": "attractions-wizardswaters:item/elevator/stripped_spruce_log_top",
-    "particle": "attractions-wizardswaters:item/elevator/barrel_side"
+    "0": "attractions-wizardswaters:item/elevator/ingeniamc_barrel_side",
+    "1": "attractions-wizardswaters:item/elevator/ingeniamc_barrel_top",
+    "2": "attractions-wizardswaters:item/elevator/ingeniamc_barrel_bottom",
+    "3": "attractions-wizardswaters:item/elevator/ingeniamc_normal",
+    "4": "attractions-wizardswaters:item/elevator/ingeniamc_copper_block",
+    "5": "attractions-wizardswaters:item/elevator/ingeniamc_stripped_spruce_log_top",
+    "particle": "attractions-wizardswaters:item/elevator/ingeniamc_barrel_side"
   },
   "elements": [
     {

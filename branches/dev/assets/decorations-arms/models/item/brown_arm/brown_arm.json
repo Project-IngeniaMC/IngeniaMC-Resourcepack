@@ -1,8 +1,8 @@
 {
   "credit": "Made with Blockbench",
   "textures": {
-    "0": "cosmetics:item/brown_arm/brown_arm",
-    "particle": "cosmetics:item/brown_arm/brown_arm"
+    "0": "decorations-arms:item/brown_arm/ingeniamc_brown_arm",
+    "particle": "decorations-arms:item/brown_arm/ingeniamc_brown_arm"
   },
   "elements": [
     {

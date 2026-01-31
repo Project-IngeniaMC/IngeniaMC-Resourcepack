@@ -5,8 +5,8 @@
     64
   ],
   "textures": {
-    "0": "events:item/dj_table/dj_table",
-    "particle": "events:item/dj_table/dj_table"
+    "0": "decorations-summerevent:item/dj_table/ingeniamc_dj_table",
+    "particle": "decorations-summerevent:item/dj_table/ingeniamc_dj_table"
   },
   "elements": [
     {

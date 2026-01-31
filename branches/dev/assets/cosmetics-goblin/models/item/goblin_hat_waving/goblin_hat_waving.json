@@ -5,8 +5,8 @@
     32
   ],
   "textures": {
-    "0": "cosmetics-goblin:item/goblin_hat_waving/goblin_handheld",
-    "particle": "cosmetics-goblin:item/goblin_hat_waving/goblin_handheld"
+    "0": "cosmetics-goblin:item/goblin_hat_waving/ingeniamc_goblin_handheld",
+    "particle": "cosmetics-goblin:item/goblin_hat_waving/ingeniamc_goblin_handheld"
   },
   "elements": [
     {

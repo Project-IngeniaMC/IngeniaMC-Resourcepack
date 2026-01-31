@@ -5,7 +5,7 @@
     64
   ],
   "textures": {
-    "1": "events:item/swim_ring_green/swim_ring_green"
+    "1": "cosmetics-summerevent-swimrings:item/swim_ring_green/ingeniamc_swim_ring_green"
   },
   "elements": [
     {

@@ -1,9 +1,9 @@
 {
   "credit": "Made with Blockbench",
   "textures": {
-    "0": "events:item/emptyhotchocolate/red_terracotta",
-    "1": "events:item/emptyhotchocolate/orange_terracotta",
-    "particle": "events:item/emptyhotchocolate/red_terracotta"
+    "0": "consumables:item/emptyhotchocolate/ingeniamc_red_terracotta",
+    "1": "consumables:item/emptyhotchocolate/ingeniamc_orange_terracotta",
+    "particle": "consumables:item/emptyhotchocolate/ingeniamc_red_terracotta"
   },
   "elements": [
     {

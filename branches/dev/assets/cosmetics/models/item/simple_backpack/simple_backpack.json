@@ -5,8 +5,8 @@
     32
   ],
   "textures": {
-    "0": "cosmetics:item/simple_backpack/simple_backpack",
-    "particle": "cosmetics:item/simple_backpack/simple_backpack"
+    "0": "cosmetics:item/simple_backpack/ingeniamc_simple_backpack",
+    "particle": "cosmetics:item/simple_backpack/ingeniamc_simple_backpack"
   },
   "elements": [
     {

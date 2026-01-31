@@ -1,13 +1,13 @@
 {
   "credit": "Made with Blockbench",
   "textures": {
-    "0": "cosmetics:item/owner_crown/gold_block",
-    "1": "cosmetics:item/owner_crown/red_concrete",
-    "2": "cosmetics:item/owner_crown/beacon",
-    "3": "cosmetics:item/owner_crown/light_blue_concrete_powder",
-    "4": "cosmetics:item/owner_crown/lime_concrete_powder",
-    "5": "cosmetics:item/owner_crown/red_concrete_powder",
-    "particle": "cosmetics:item/owner_crown/gold_block"
+    "0": "cosmetics:item/owner_crown/ingeniamc_gold_block",
+    "1": "cosmetics:item/owner_crown/ingeniamc_red_concrete",
+    "2": "cosmetics:item/owner_crown/ingeniamc_beacon",
+    "3": "cosmetics:item/owner_crown/ingeniamc_light_blue_concrete_powder",
+    "4": "cosmetics:item/owner_crown/ingeniamc_lime_concrete_powder",
+    "5": "cosmetics:item/owner_crown/ingeniamc_red_concrete_powder",
+    "particle": "cosmetics:item/owner_crown/ingeniamc_gold_block"
   },
   "elements": [
     {

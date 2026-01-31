@@ -5,8 +5,8 @@
     32
   ],
   "textures": {
-    "0": "cosmetics:item/japanese_hat/japanese_hat",
-    "particle": "cosmetics:item/japanese_hat/japanese_hat"
+    "0": "cosmetics:item/japanese_hat/ingeniamc_japanese_hat",
+    "particle": "cosmetics:item/japanese_hat/ingeniamc_japanese_hat"
   },
   "elements": [
     {

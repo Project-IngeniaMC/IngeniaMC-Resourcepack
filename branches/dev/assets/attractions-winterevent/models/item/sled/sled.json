@@ -1,10 +1,10 @@
 {
   "credit": "Made with Blockbench",
   "textures": {
-    "0": "events:item/sled/barrel_side",
-    "2": "events:item/sled/gray_concrete",
-    "4": "events:item/sled/spruce_planks",
-    "particle": "events:item/sled/barrel_side"
+    "0": "attractions-winterevent:item/sled/ingeniamc_barrel_side",
+    "2": "attractions-winterevent:item/sled/ingeniamc_gray_concrete",
+    "4": "attractions-winterevent:item/sled/ingeniamc_spruce_planks",
+    "particle": "attractions-winterevent:item/sled/ingeniamc_barrel_side"
   },
   "elements": [
     {

@@ -1,8 +1,8 @@
 {
   "credit": "Made with Blockbench",
   "textures": {
-    "0": "events:item/cc_2022_banner/cc-flag-2024",
-    "particle": "events:item/cc_2022_banner/cc-flag-2024"
+    "0": "events:item/cc_2022_banner/ingeniamc_cc-flag-2024",
+    "particle": "events:item/cc_2022_banner/ingeniamc_cc-flag-2024"
   },
   "elements": [
     {

@@ -1,8 +1,8 @@
 {
   "credit": "Made with Blockbench",
   "textures": {
-    "0": "consumables:item/fries/fries",
-    "particle": "consumables:item/fries/fries"
+    "0": "consumables:item/fries/ingeniamc_fries",
+    "particle": "consumables:item/fries/ingeniamc_fries"
   },
   "elements": [
     {

@@ -5,8 +5,8 @@
     64
   ],
   "textures": {
-    "0": "decorations:item/party-hat/party-hat",
-    "particle": "decorations:item/party-hat/party-hat"
+    "0": "cosmetics:item/party-hat/ingeniamc_party-hat",
+    "particle": "cosmetics:item/party-hat/ingeniamc_party-hat"
   },
   "elements": [
     {

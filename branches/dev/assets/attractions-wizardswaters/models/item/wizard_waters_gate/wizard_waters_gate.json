@@ -1,9 +1,9 @@
 {
   "credit": "Made with Blockbench",
   "textures": {
-    "0": "attractions-wizardswaters:item/wizard_waters_gate/barrel_side",
-    "1": "attractions-wizardswaters:item/wizard_waters_gate/blast_furnace_side",
-    "particle": "attractions-wizardswaters:item/wizard_waters_gate/barrel_side"
+    "0": "attractions-wizardswaters:item/wizard_waters_gate/ingeniamc_barrel_side",
+    "1": "attractions-wizardswaters:item/wizard_waters_gate/ingeniamc_blast_furnace_side",
+    "particle": "attractions-wizardswaters:item/wizard_waters_gate/ingeniamc_barrel_side"
   },
   "elements": [
     {

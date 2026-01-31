@@ -5,8 +5,8 @@
     32
   ],
   "textures": {
-    "0": "ingeniamc:item/small_plank/normal_plank",
-    "particle": "ingeniamc:item/small_plank/normal_plank"
+    "0": "decorations:item/small_plank/ingeniamc_normal_plank",
+    "particle": "decorations:item/small_plank/ingeniamc_normal_plank"
   },
   "elements": [
     {

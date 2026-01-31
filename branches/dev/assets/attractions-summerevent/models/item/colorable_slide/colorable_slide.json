@@ -1,9 +1,9 @@
 {
   "credit": "Made with Blockbench",
   "textures": {
-    "0": "events:item/colorable_slide/slide_new",
-    "2": "events:item/colorable_slide/water_color",
-    "particle": "events:item/colorable_slide/slide_new"
+    "0": "attractions-summerevent:item/colorable_slide/ingeniamc_slide_new",
+    "2": "attractions-summerevent:item/colorable_slide/ingeniamc_water_color",
+    "particle": "attractions-summerevent:item/colorable_slide/ingeniamc_slide_new"
   },
   "elements": [
     {

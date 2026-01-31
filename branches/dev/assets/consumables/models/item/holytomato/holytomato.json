@@ -1,8 +1,8 @@
 {
   "credit": "Made with Blockbench",
   "textures": {
-    "0": "consumables:item/holytomato/holytomato",
-    "particle": "consumables:item/holytomato/holytomato"
+    "0": "consumables:item/holytomato/ingeniamc_holytomato",
+    "particle": "consumables:item/holytomato/ingeniamc_holytomato"
   },
   "elements": [
     {

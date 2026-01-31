@@ -5,8 +5,8 @@
     128
   ],
   "textures": {
-    "0": "ingeniamc:item/table/table",
-    "particle": "ingeniamc:item/table/table"
+    "0": "decorations:item/table/ingeniamc_table",
+    "particle": "decorations:item/table/ingeniamc_table"
   },
   "elements": [
     {

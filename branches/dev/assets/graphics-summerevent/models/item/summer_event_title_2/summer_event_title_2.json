@@ -1,9 +1,9 @@
 {
   "credit": "Made with Blockbench",
   "textures": {
-    "0": "ingeniamc:item/summer_event_title_2/10",
-    "1": "ingeniamc:item/summer_event_title_2/empty",
-    "particle": "ingeniamc:item/summer_event_title_2/10"
+    "0": "graphics-summerevent:item/summer_event_title_2/ingeniamc_10",
+    "1": "graphics-summerevent:item/summer_event_title_2/ingeniamc_empty",
+    "particle": "graphics-summerevent:item/summer_event_title_2/ingeniamc_10"
   },
   "elements": [
     {

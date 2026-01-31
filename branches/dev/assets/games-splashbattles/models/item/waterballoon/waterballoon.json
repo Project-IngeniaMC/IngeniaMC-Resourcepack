@@ -5,8 +5,8 @@
     64
   ],
   "textures": {
-    "0": "events:item/waterballoon/waterballoon",
-    "particle": "events:item/waterballoon/waterballoon"
+    "0": "games-splashbattles:item/waterballoon/ingeniamc_waterballoon",
+    "particle": "games-splashbattles:item/waterballoon/ingeniamc_waterballoon"
   },
   "elements": [
     {

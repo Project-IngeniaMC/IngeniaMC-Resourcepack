@@ -5,8 +5,8 @@
     32
   ],
   "textures": {
-    "0": "ingeniamc:item/large_plank/large_plank",
-    "particle": "ingeniamc:item/large_plank/large_plank"
+    "0": "decorations:item/large_plank/ingeniamc_large_plank",
+    "particle": "decorations:item/large_plank/ingeniamc_large_plank"
   },
   "elements": [
     {

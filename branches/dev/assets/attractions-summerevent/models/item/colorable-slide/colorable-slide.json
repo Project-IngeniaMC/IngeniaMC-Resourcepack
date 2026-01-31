@@ -5,9 +5,9 @@
     64
   ],
   "textures": {
-    "1": "events:item/colorable-slide/slide",
-    "2": "events:item/colorable-slide/water_flow",
-    "particle": "events:item/colorable-slide/water_flow"
+    "1": "attractions-summerevent:item/colorable-slide/ingeniamc_slide",
+    "2": "attractions-summerevent:item/colorable-slide/ingeniamc_water_flow",
+    "particle": "attractions-summerevent:item/colorable-slide/ingeniamc_water_flow"
   },
   "elements": [
     {

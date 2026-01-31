@@ -5,8 +5,8 @@
     64
   ],
   "textures": {
-    "0": "cosmetics:item/mannequin/mannequin",
-    "particle": "cosmetics:item/mannequin/mannequin"
+    "0": "other:item/mannequin/ingeniamc_mannequin",
+    "particle": "other:item/mannequin/ingeniamc_mannequin"
   },
   "elements": [
     {

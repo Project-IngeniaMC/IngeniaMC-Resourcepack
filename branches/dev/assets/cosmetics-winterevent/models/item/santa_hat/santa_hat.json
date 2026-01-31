@@ -1,7 +1,7 @@
 {
   "credit": "Made with Blockbench",
   "textures": {
-    "2": "ingeniamc:item/santa_hat/santahat2"
+    "2": "cosmetics-winterevent:item/santa_hat/ingeniamc_santahat2"
   },
   "elements": [
     {

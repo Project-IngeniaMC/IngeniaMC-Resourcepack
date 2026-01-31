@@ -5,8 +5,8 @@
     64
   ],
   "textures": {
-    "0": "cosmetics:item/ranger_hat/ranger_hat",
-    "particle": "cosmetics:item/ranger_hat/ranger_hat"
+    "0": "cosmetics:item/ranger_hat/ingeniamc_ranger_hat",
+    "particle": "cosmetics:item/ranger_hat/ingeniamc_ranger_hat"
   },
   "elements": [
     {

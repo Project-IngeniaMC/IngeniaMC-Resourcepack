@@ -1,13 +1,13 @@
 {
   "credit": "Made with Blockbench",
   "textures": {
-    "0": "attractions-sandsnake:item/sand_snake/gray_shulker_box",
-    "2": "attractions-sandsnake:item/sand_snake/anvil_top",
-    "4": "attractions-sandsnake:item/sand_snake/crimson_planks",
-    "5": "attractions-sandsnake:item/sand_snake/crimson_stem",
-    "6": "attractions-sandsnake:item/sand_snake/chiseled_nether_bricks",
-    "7": "attractions-sandsnake:item/sand_snake/red_terracotta",
-    "particle": "attractions-sandsnake:item/sand_snake/gray_shulker_box"
+    "0": "attractions-sandsnake:item/sand_snake/ingeniamc_gray_shulker_box",
+    "2": "attractions-sandsnake:item/sand_snake/ingeniamc_anvil_top",
+    "4": "attractions-sandsnake:item/sand_snake/ingeniamc_crimson_planks",
+    "5": "attractions-sandsnake:item/sand_snake/ingeniamc_crimson_stem",
+    "6": "attractions-sandsnake:item/sand_snake/ingeniamc_chiseled_nether_bricks",
+    "7": "attractions-sandsnake:item/sand_snake/ingeniamc_red_terracotta",
+    "particle": "attractions-sandsnake:item/sand_snake/ingeniamc_gray_shulker_box"
   },
   "elements": [
     {

@@ -1,8 +1,8 @@
 {
   "credit": "Made with Blockbench",
   "textures": {
-    "0": "events:item/rudolph_reindeer/rudolphrendeir",
-    "particle": "events:item/rudolph_reindeer/rudolphrendeir"
+    "0": "cosmetics-winterevent:item/rudolph_reindeer/ingeniamc_rudolphrendeir",
+    "particle": "cosmetics-winterevent:item/rudolph_reindeer/ingeniamc_rudolphrendeir"
   },
   "elements": [
     {

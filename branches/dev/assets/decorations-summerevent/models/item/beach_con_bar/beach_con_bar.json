@@ -1,9 +1,9 @@
 {
   "credit": "Made with Blockbench",
   "textures": {
-    "0": "events:item/beach_con_bar/beachconbar-left",
-    "1": "events:item/beach_con_bar/beachconbar-right",
-    "particle": "events:item/beach_con_bar/beachconbar-left"
+    "0": "decorations-summerevent:item/beach_con_bar/ingeniamc_beachconbar-left",
+    "1": "decorations-summerevent:item/beach_con_bar/ingeniamc_beachconbar-right",
+    "particle": "decorations-summerevent:item/beach_con_bar/ingeniamc_beachconbar-left"
   },
   "elements": [
     {

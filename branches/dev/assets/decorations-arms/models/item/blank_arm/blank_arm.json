@@ -5,8 +5,8 @@
     32
   ],
   "textures": {
-    "0": "cosmetics:item/blank_arm/blank_arm",
-    "particle": "cosmetics:item/blank_arm/blank_arm"
+    "0": "decorations-arms:item/blank_arm/ingeniamc_blank_arm",
+    "particle": "decorations-arms:item/blank_arm/ingeniamc_blank_arm"
   },
   "elements": [
     {

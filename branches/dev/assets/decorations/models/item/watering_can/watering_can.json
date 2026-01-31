@@ -5,8 +5,8 @@
     32
   ],
   "textures": {
-    "0": "ingeniamc:item/watering_can/watering_can",
-    "particle": "ingeniamc:item/watering_can/watering_can"
+    "0": "decorations:item/watering_can/ingeniamc_watering_can",
+    "particle": "decorations:item/watering_can/ingeniamc_watering_can"
   },
   "elements": [
     {

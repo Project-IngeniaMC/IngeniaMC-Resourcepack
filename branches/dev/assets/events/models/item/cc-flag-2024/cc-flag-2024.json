@@ -5,9 +5,9 @@
     64
   ],
   "textures": {
-    "1": "events:item/cc-flag-2024/stripped_spruce_log",
-    "3": "events:item/cc-flag-2024/ccflag-2024",
-    "particle": "events:item/cc-flag-2024/ccflag-2024"
+    "1": "events:item/cc-flag-2024/ingeniamc_stripped_spruce_log",
+    "3": "events:item/cc-flag-2024/ingeniamc_ccflag-2024",
+    "particle": "events:item/cc-flag-2024/ingeniamc_ccflag-2024"
   },
   "elements": [
     {

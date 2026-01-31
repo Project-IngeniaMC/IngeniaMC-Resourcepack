@@ -2,7 +2,7 @@
   "credit": "Made with Blockbench",
   "parent": "minecraft:item/handheld",
   "textures": {
-    "layer0": "consumables-icecream:item/lemon2/lemon2"
+    "layer0": "consumables-icecream:item/lemon2/ingeniamc_lemon2"
   },
   "display": {
     "thirdperson_righthand": {

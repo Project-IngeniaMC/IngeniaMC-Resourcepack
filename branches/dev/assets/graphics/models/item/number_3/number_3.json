@@ -5,8 +5,8 @@
     32
   ],
   "textures": {
-    "0": "graphics:item/number_3/number_3",
-    "particle": "graphics:item/number_3/number_3"
+    "0": "graphics:item/number_3/ingeniamc_number_3",
+    "particle": "graphics:item/number_3/ingeniamc_number_3"
   },
   "elements": [
     {

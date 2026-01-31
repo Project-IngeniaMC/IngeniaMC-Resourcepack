@@ -1,9 +1,9 @@
 {
   "credit": "Made with Blockbench",
   "textures": {
-    "0": "attractions-rapids_of_mayhem:item/track/gray_concrete",
-    "1": "attractions-rapids_of_mayhem:item/track/weathered_copper",
-    "particle": "attractions-rapids_of_mayhem:item/track/gray_concrete"
+    "0": "attractions-rapids_of_mayhem:item/track/ingeniamc_gray_concrete",
+    "1": "attractions-rapids_of_mayhem:item/track/ingeniamc_weathered_copper",
+    "particle": "attractions-rapids_of_mayhem:item/track/ingeniamc_gray_concrete"
   },
   "elements": [
     {

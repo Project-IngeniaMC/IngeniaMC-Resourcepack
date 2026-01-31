@@ -1,8 +1,8 @@
 {
   "credit": "Made with Blockbench",
   "textures": {
-    "2": "ingeniamc:item/muts1/muts1",
-    "3": "ingeniamc:item/muts1/mutscolor1"
+    "2": "cosmetics-winterevent:item/muts1/ingeniamc_muts1",
+    "3": "cosmetics-winterevent:item/muts1/ingeniamc_mutscolor1"
   },
   "elements": [
     {

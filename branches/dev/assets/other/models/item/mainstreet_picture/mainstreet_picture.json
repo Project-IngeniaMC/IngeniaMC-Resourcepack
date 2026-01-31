@@ -1,12 +1,12 @@
 {
   "credit": "Made with Blockbench",
   "textures": {
-    "0": "Unknown:item/mainstreet_picture/1",
-    "1": "Unknown:item/mainstreet_picture/2",
-    "2": "Unknown:item/mainstreet_picture/3",
-    "3": "Unknown:item/mainstreet_picture/4",
-    "particle": "Unknown:item/mainstreet_picture/1",
-    "missing": "other:item/mainstreet_picture/missing"
+    "0": "other:item/mainstreet_picture/ingeniamc_1",
+    "1": "other:item/mainstreet_picture/ingeniamc_2",
+    "2": "other:item/mainstreet_picture/ingeniamc_3",
+    "3": "other:item/mainstreet_picture/ingeniamc_4",
+    "particle": "other:item/mainstreet_picture/ingeniamc_1",
+    "missing": "other:item/mainstreet_picture/ingeniamc_missing"
   },
   "elements": [
     {

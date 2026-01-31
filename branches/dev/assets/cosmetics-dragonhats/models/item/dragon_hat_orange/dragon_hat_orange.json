@@ -1,12 +1,12 @@
 {
   "credit": "Made with Blockbench",
   "textures": {
-    "2": "cosmetics-dragonhats:item/dragon_hat_orange/cyan_terracotta",
-    "3": "cosmetics-dragonhats:item/dragon_hat_orange/gray_concrete",
-    "5": "cosmetics-dragonhats:item/dragon_hat_orange/dragon_eyes",
-    "6": "cosmetics-dragonhats:item/dragon_hat_orange/orange_terracotta",
-    "7": "cosmetics-dragonhats:item/dragon_hat_orange/orange_stained_glass",
-    "8": "cosmetics-dragonhats:item/dragon_hat_orange/dripstone_block"
+    "2": "cosmetics-dragonhats:item/dragon_hat_orange/ingeniamc_cyan_terracotta",
+    "3": "cosmetics-dragonhats:item/dragon_hat_orange/ingeniamc_gray_concrete",
+    "5": "cosmetics-dragonhats:item/dragon_hat_orange/ingeniamc_dragon_eyes",
+    "6": "cosmetics-dragonhats:item/dragon_hat_orange/ingeniamc_orange_terracotta",
+    "7": "cosmetics-dragonhats:item/dragon_hat_orange/ingeniamc_orange_stained_glass",
+    "8": "cosmetics-dragonhats:item/dragon_hat_orange/ingeniamc_dripstone_block"
   },
   "elements": [
     {

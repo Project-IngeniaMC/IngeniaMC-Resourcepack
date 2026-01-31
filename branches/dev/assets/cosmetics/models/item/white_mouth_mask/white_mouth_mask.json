@@ -1,8 +1,8 @@
 {
   "credit": "Made with Blockbench",
   "textures": {
-    "0": "cosmetics:item/white_mouth_mask/quartz_block_bottom",
-    "particle": "cosmetics:item/white_mouth_mask/quartz_block_bottom"
+    "0": "cosmetics:item/white_mouth_mask/ingeniamc_quartz_block_bottom",
+    "particle": "cosmetics:item/white_mouth_mask/ingeniamc_quartz_block_bottom"
   },
   "elements": [
     {

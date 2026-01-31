@@ -1,9 +1,9 @@
 {
   "credit": "Made with Blockbench",
   "textures": {
-    "0": "cosmetics:item/face_mask/black_stained_glass",
-    "1": "cosmetics:item/face_mask/black_concrete",
-    "particle": "cosmetics:item/face_mask/black_stained_glass"
+    "0": "cosmetics:item/face_mask/ingeniamc_black_stained_glass",
+    "1": "cosmetics:item/face_mask/ingeniamc_black_concrete",
+    "particle": "cosmetics:item/face_mask/ingeniamc_black_stained_glass"
   },
   "elements": [
     {

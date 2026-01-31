@@ -1,13 +1,13 @@
 {
   "credit": "Made with Blockbench",
   "textures": {
-    "2": "cosmetics-dragonhats:item/dragon_hat_green/cyan_terracotta",
-    "3": "cosmetics-dragonhats:item/dragon_hat_green/gray_concrete",
-    "4": "cosmetics-dragonhats:item/dragon_hat_green/green_terracotta",
-    "5": "cosmetics-dragonhats:item/dragon_hat_green/dragon_eyes",
-    "6": "cosmetics-dragonhats:item/dragon_hat_green/green_stained_glass",
-    "7": "cosmetics-dragonhats:item/dragon_hat_green/dark_prismarine",
-    "particle": "cosmetics-dragonhats:item/dragon_hat_green/green_terracotta"
+    "2": "cosmetics-dragonhats:item/dragon_hat_green/ingeniamc_cyan_terracotta",
+    "3": "cosmetics-dragonhats:item/dragon_hat_green/ingeniamc_gray_concrete",
+    "4": "cosmetics-dragonhats:item/dragon_hat_green/ingeniamc_green_terracotta",
+    "5": "cosmetics-dragonhats:item/dragon_hat_green/ingeniamc_dragon_eyes",
+    "6": "cosmetics-dragonhats:item/dragon_hat_green/ingeniamc_green_stained_glass",
+    "7": "cosmetics-dragonhats:item/dragon_hat_green/ingeniamc_dark_prismarine",
+    "particle": "cosmetics-dragonhats:item/dragon_hat_green/ingeniamc_green_terracotta"
   },
   "elements": [
     {

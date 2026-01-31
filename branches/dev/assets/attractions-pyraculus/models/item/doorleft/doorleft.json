@@ -5,8 +5,8 @@
     64
   ],
   "textures": {
-    "0": "attractions-pyraculus:item/doorleft/pyraculusdoor",
-    "particle": "attractions-pyraculus:item/doorleft/pyraculusdoor"
+    "0": "attractions-pyraculus:item/doorleft/ingeniamc_pyraculusdoor",
+    "particle": "attractions-pyraculus:item/doorleft/ingeniamc_pyraculusdoor"
   },
   "elements": [
     {

@@ -5,8 +5,8 @@
     32
   ],
   "textures": {
-    "0": "cosmetics:item/reversed_straw_hat/straw_hat",
-    "particle": "cosmetics:item/reversed_straw_hat/straw_hat"
+    "0": "cosmetics:item/reversed_straw_hat/ingeniamc_straw_hat",
+    "particle": "cosmetics:item/reversed_straw_hat/ingeniamc_straw_hat"
   },
   "elements": [
     {

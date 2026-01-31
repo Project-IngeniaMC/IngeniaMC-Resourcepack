@@ -1,9 +1,9 @@
 {
   "credit": "Made with Blockbench",
   "textures": {
-    "1": "ingeniamc:item/santa_hat_with_lights/secondslights",
-    "2": "ingeniamc:item/santa_hat_with_lights/santahatwithlights",
-    "particle": "ingeniamc:item/santa_hat_with_lights/secondslights"
+    "1": "cosmetics-winterevent:item/santa_hat_with_lights/ingeniamc_secondslights",
+    "2": "cosmetics-winterevent:item/santa_hat_with_lights/ingeniamc_santahatwithlights",
+    "particle": "cosmetics-winterevent:item/santa_hat_with_lights/ingeniamc_secondslights"
   },
   "elements": [
     {

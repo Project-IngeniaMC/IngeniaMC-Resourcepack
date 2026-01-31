@@ -5,8 +5,8 @@
     64
   ],
   "textures": {
-    "0": "cosmetics:item/camel_hat/camel",
-    "particle": "cosmetics:item/camel_hat/camel"
+    "0": "cosmetics:item/camel_hat/ingeniamc_camel",
+    "particle": "cosmetics:item/camel_hat/ingeniamc_camel"
   },
   "elements": [
     {

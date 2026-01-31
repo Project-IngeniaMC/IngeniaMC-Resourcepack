@@ -5,11 +5,11 @@
     128
   ],
   "textures": {
-    "1": "decorations:item/icecreamshowcase/texture",
-    "2": "decorations:item/icecreamshowcase/ice",
-    "3": "decorations:item/icecreamshowcase/texture2",
-    "particle": "decorations:item/icecreamshowcase/ice",
-    "missing": "decorations:item/icecreamshowcase/missing"
+    "1": "decorations:item/icecreamshowcase/ingeniamc_texture",
+    "2": "decorations:item/icecreamshowcase/ingeniamc_ice",
+    "3": "decorations:item/icecreamshowcase/ingeniamc_texture2",
+    "particle": "decorations:item/icecreamshowcase/ingeniamc_ice",
+    "missing": "decorations:item/icecreamshowcase/ingeniamc_missing"
   },
   "elements": [
     {

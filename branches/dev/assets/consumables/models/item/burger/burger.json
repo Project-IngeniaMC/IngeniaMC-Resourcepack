@@ -1,8 +1,8 @@
 {
   "credit": "Made with Blockbench",
   "textures": {
-    "0": "consumables:item/burger/burger",
-    "particle": "consumables:item/burger/burger"
+    "0": "consumables:item/burger/ingeniamc_burger",
+    "particle": "consumables:item/burger/ingeniamc_burger"
   },
   "elements": [
     {

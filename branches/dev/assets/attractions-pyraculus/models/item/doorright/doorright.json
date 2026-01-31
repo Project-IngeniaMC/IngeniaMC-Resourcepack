@@ -1,8 +1,8 @@
 {
   "credit": "Made with Blockbench",
   "textures": {
-    "0": "attractions-pyraculus:item/doorright/pyraculusdoor",
-    "particle": "attractions-pyraculus:item/doorright/pyraculusdoor"
+    "0": "attractions-pyraculus:item/doorright/ingeniamc_pyraculusdoor",
+    "particle": "attractions-pyraculus:item/doorright/ingeniamc_pyraculusdoor"
   },
   "elements": [
     {

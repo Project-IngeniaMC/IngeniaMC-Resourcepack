@@ -5,8 +5,8 @@
     64
   ],
   "textures": {
-    "0": "attractions:item/carousel/carousel",
-    "particle": "attractions:item/carousel/carousel"
+    "0": "attractions:item/carousel/ingeniamc_carousel",
+    "particle": "attractions:item/carousel/ingeniamc_carousel"
   },
   "elements": [
     {

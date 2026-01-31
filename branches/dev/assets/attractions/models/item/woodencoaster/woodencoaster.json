@@ -1,13 +1,13 @@
 {
   "credit": "Made with Blockbench",
   "textures": {
-    "0": "attractions:item/woodencoaster/spruce_planks",
-    "1": "attractions:item/woodencoaster/black_wool",
-    "2": "attractions:item/woodencoaster/brown_concrete_powder",
-    "3": "attractions:item/woodencoaster/andesite",
-    "4": "attractions:item/woodencoaster/brown_concrete",
-    "5": "attractions:item/woodencoaster/spruce_log",
-    "particle": "attractions:item/woodencoaster/spruce_planks"
+    "0": "attractions:item/woodencoaster/ingeniamc_spruce_planks",
+    "1": "attractions:item/woodencoaster/ingeniamc_black_wool",
+    "2": "attractions:item/woodencoaster/ingeniamc_brown_concrete_powder",
+    "3": "attractions:item/woodencoaster/ingeniamc_andesite",
+    "4": "attractions:item/woodencoaster/ingeniamc_brown_concrete",
+    "5": "attractions:item/woodencoaster/ingeniamc_spruce_log",
+    "particle": "attractions:item/woodencoaster/ingeniamc_spruce_planks"
   },
   "elements": [
     {

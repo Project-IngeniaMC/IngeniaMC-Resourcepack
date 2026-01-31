@@ -1,17 +1,17 @@
 {
   "credit": "Made with Blockbench",
   "textures": {
-    "1": "attractions-parktrain:item/parktrain_loco/cartography_table_side3",
-    "2": "attractions-parktrain:item/parktrain_loco/gray_concrete",
-    "3": "attractions-parktrain:item/parktrain_loco/red_terracotta",
-    "4": "attractions-parktrain:item/parktrain_loco/brown_terracotta",
-    "5": "attractions-parktrain:item/parktrain_loco/andesite",
-    "6": "attractions-parktrain:item/parktrain_loco/coal_block",
-    "7": "attractions-parktrain:item/parktrain_loco/lever",
-    "8": "attractions-parktrain:item/parktrain_loco/lime_concrete",
-    "9": "attractions-parktrain:item/parktrain_loco/red_concrete",
-    "particle": "attractions-parktrain:item/parktrain_loco/andesite",
-    "missing": "attractions-parktrain:item/parktrain_loco/missing"
+    "1": "attractions-parktrain:item/parktrain_loco/ingeniamc_cartography_table_side3",
+    "2": "attractions-parktrain:item/parktrain_loco/ingeniamc_gray_concrete",
+    "3": "attractions-parktrain:item/parktrain_loco/ingeniamc_red_terracotta",
+    "4": "attractions-parktrain:item/parktrain_loco/ingeniamc_brown_terracotta",
+    "5": "attractions-parktrain:item/parktrain_loco/ingeniamc_andesite",
+    "6": "attractions-parktrain:item/parktrain_loco/ingeniamc_coal_block",
+    "7": "attractions-parktrain:item/parktrain_loco/ingeniamc_lever",
+    "8": "attractions-parktrain:item/parktrain_loco/ingeniamc_lime_concrete",
+    "9": "attractions-parktrain:item/parktrain_loco/ingeniamc_red_concrete",
+    "particle": "attractions-parktrain:item/parktrain_loco/ingeniamc_andesite",
+    "missing": "attractions-parktrain:item/parktrain_loco/ingeniamc_missing"
   },
   "elements": [
     {

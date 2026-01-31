@@ -1,9 +1,9 @@
 {
   "credit": "Made with Blockbench",
   "textures": {
-    "2": "ingeniamc:item/christmas_lights_armor/lightcables",
-    "3": "ingeniamc:item/christmas_lights_armor/lights3",
-    "particle": "events:item/christmas_lights_armor/mannequin"
+    "2": "cosmetics-winterevent:item/christmas_lights_armor/ingeniamc_lightcables",
+    "3": "cosmetics-winterevent:item/christmas_lights_armor/ingeniamc_lights3",
+    "particle": "cosmetics-winterevent:item/christmas_lights_armor/ingeniamc_mannequin"
   },
   "elements": [
     {

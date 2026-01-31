@@ -1,8 +1,8 @@
 {
   "credit": "Made with Blockbench",
   "textures": {
-    "0": "events:item/splash_battles/splash_battles",
-    "particle": "events:item/splash_battles/splash_battles"
+    "0": "graphics:item/splash_battles/ingeniamc_splash_battles",
+    "particle": "graphics:item/splash_battles/ingeniamc_splash_battles"
   },
   "elements": [
     {

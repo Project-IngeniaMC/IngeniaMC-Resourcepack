@@ -1,11 +1,11 @@
 {
   "credit": "Made with Blockbench",
   "textures": {
-    "0": "events:item/hotchocolatecream/brown_terracotta",
-    "1": "events:item/hotchocolatecream/red_terracotta",
-    "2": "events:item/hotchocolatecream/white_concrete",
-    "3": "events:item/hotchocolatecream/orange_terracotta",
-    "particle": "events:item/hotchocolatecream/brown_terracotta"
+    "0": "consumables:item/hotchocolatecream/ingeniamc_brown_terracotta",
+    "1": "consumables:item/hotchocolatecream/ingeniamc_red_terracotta",
+    "2": "consumables:item/hotchocolatecream/ingeniamc_white_concrete",
+    "3": "consumables:item/hotchocolatecream/ingeniamc_orange_terracotta",
+    "particle": "consumables:item/hotchocolatecream/ingeniamc_brown_terracotta"
   },
   "elements": [
     {

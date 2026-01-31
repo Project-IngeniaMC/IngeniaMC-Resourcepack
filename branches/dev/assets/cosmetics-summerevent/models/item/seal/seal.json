@@ -5,8 +5,8 @@
     64
   ],
   "textures": {
-    "0": "events:item/seal/seal_hat",
-    "particle": "events:item/seal/seal_hat"
+    "0": "cosmetics-summerevent:item/seal/ingeniamc_seal_hat",
+    "particle": "cosmetics-summerevent:item/seal/ingeniamc_seal_hat"
   },
   "elements": [
     {
