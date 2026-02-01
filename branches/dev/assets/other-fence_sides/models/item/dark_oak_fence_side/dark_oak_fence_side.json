@@ -38,6 +38,15 @@
           ],
           "texture": "#texture"
         },
+        "south": {
+          "uv": [
+            6,
+            1,
+            9,
+            4
+          ],
+          "texture": "#texture"
+        },
         "west": {
           "uv": [
             0,
@@ -96,6 +105,15 @@
             7,
             9,
             10
+          ],
+          "texture": "#texture"
+        },
+        "south": {
+          "uv": [
+            5,
+            3,
+            8,
+            6
           ],
           "texture": "#texture"
         },
