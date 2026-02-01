@@ -2,8 +2,8 @@
   "format_version": "1.21.11",
   "credit": "Made with Blockbench",
   "textures": {
-    "particle": "other-fence_sides:item/dark_oak_fence_side/dark_oak_planks",
-    "texture": "other-fence_sides:item/dark_oak_fence_side/dark_oak_planks"
+    "particle": "other-fence_sides:item/dark_oak_fence_side/ingeniamc_dark_oak_planks",
+    "texture": "other-fence_sides:item/dark_oak_fence_side/ingeniamc_dark_oak_planks"
   },
   "elements": [
     {
