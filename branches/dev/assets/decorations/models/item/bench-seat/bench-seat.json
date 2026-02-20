@@ -2,8 +2,8 @@
   "format_version": "1.21.11",
   "credit": "Made with Blockbench",
   "textures": {
-    "1": "decorations:item/bench-seat/ingeniamc_benchseat",
-    "particle": "decorations:item/bench-seat/ingeniamc_benchseat"
+    "1": "decorations:item/bench-seat/benchseat",
+    "particle": "decorations:item/bench-seat/benchseat"
   },
   "elements": [
     {
