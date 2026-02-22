@@ -6,8 +6,8 @@
     64
   ],
   "textures": {
-    "0": "decorations-direction_signs:item/mv_direction_sign_pole/texture",
-    "particle": "decorations-direction_signs:item/mv_direction_sign_pole/texture"
+    "0": "decorations-direction_signs:item/mv_direction_sign_pole/ingeniamc_texture",
+    "particle": "decorations-direction_signs:item/mv_direction_sign_pole/ingeniamc_texture"
   },
   "elements": [
     {
