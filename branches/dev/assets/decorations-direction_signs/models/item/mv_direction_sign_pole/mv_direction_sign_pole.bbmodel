@@ -17,7 +17,7 @@
   "variable_placeholders": "",
   "variable_placeholder_buttons": [],
   "unhandled_root_fields": {},
-  "activity_tracker": 3723,
+  "activity_tracker": 3770,
   "resolution": {
     "width": 128,
     "height": 128
@@ -61,28 +61,28 @@
         },
         "east": {
           "uv": [
-            18,
-            7,
-            22,
-            51
+            24,
+            23,
+            28,
+            67
           ],
           "texture": 0
         },
         "south": {
           "uv": [
-            14,
-            30,
-            18,
-            74
+            1,
+            0,
+            5,
+            44
           ],
           "texture": 0
         },
         "west": {
           "uv": [
-            29,
-            21,
-            33,
-            65
+            4,
+            2,
+            8,
+            46
           ],
           "texture": 0
         },
