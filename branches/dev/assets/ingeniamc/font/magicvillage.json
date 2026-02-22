@@ -5,7 +5,7 @@
       "file": "ingeniamc:magicvillage.ttf",
       "shift": [0, 0],
       "size": 11,
-      "oversample": 2
+      "oversample": 20
     }
   ]
 }
