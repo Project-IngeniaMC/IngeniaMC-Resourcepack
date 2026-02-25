@@ -1,0 +1,11 @@
+{
+  "providers": [
+    {
+      "type": "ttf",
+      "file": "ingeniamc:magicvillagebold.ttf",
+      "shift": [0, 0],
+      "size": 11,
+      "oversample": 20
+    }
+  ]
+}
