@@ -2,13 +2,13 @@
   "mv-ww-splash-1": {
     "subtitle": "Splash",
     "sounds": [
-      "minecraft:mv-ww/splash-1"
+      "ingeniamc:mv-ww/splash-1"
     ]
   },
   "mv-ww-splash-2": {
     "subtitle": "Splash",
     "sounds": [
-      "minecraft:mv-ww/splash-2"
+      "ingeniamc:mv-ww/splash-2"
     ]
   }
 }
