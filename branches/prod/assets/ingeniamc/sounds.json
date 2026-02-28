@@ -10,5 +10,11 @@
     "sounds": [
       "ingeniamc:mv-ww/splash-2"
     ]
+  },
+  "mv-ww-rocks": {
+    "subtitle": "Rocks falling",
+    "sounds": [
+      "ingeniamc:mv-ww/rocks"
+    ]
   }
 }
