@@ -16,5 +16,11 @@
     "sounds": [
       "ingeniamc:mv-ww/rocks"
     ]
+  },
+  "mv-ww-magic": {
+    "subtitle": "Magic spell",
+    "sounds": [
+      "ingeniamc:mv-ww/magic"
+    ]
   }
 }
