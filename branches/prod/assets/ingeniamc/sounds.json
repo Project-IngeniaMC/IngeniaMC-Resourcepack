@@ -22,5 +22,11 @@
     "sounds": [
       "ingeniamc:mv-ww/magic"
     ]
+  },
+  "mv-ww-narrator-globin-lives": {
+    "subtitle": "Goblin Talking",
+    "sounds": [
+      "ingeniamc:mv-ww/goblin_lives"
+    ]
   }
 }
